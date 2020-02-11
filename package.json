@@ -11,7 +11,7 @@
       },
       "LT_INIT": {
         "scope": "global",
-        "LT_INIT": "2.4.6",
+        "val": "2.4.6"
       }
     },
     "build": [
