@@ -8,6 +8,10 @@
       "PKG_CONFIG_PATH": {
         "scope": "global",
         "val": "#{self.lib / 'pkgconfig' : $PKG_CONFIG_PATH }"
+      },
+      "LT_INIT": {
+        "scope": "global",
+        "LT_INIT": "2.4.6",
       }
     },
     "build": [
